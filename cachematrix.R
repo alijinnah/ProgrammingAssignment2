@@ -1,4 +1,4 @@
-## makeCahceMatrix takes an matrix as an argument (assumes it follows the rules such as being square matrix and is invertible) and returns an object with get and set methods for that matrix
+## makeCahceMatrix takes a matrix as an argument (assumes it follows the rules such as being square matrix and is invertible) and returns an object with get and set methods for that matrix
 ## an object with the set and get method for the matrix. The Set method simply calls the R function to calculate the inverse of the matrix
 ## called 'solve' 
 ## After makeCahceMatrix is called, the cacheSolve function can be called to cache the inverse of the matrix when called
